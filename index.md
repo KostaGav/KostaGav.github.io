@@ -2,6 +2,13 @@
 
 ## Konstantin Gavras, M.A. 
 
+<img src=""
+   style="float:left; margin-right:10px; width:80px; height:80px; border:none;"
+   alt="Photo of Konstantin Gavras"
+   title="Konstantin Gavras" />
+
+
+
 Please let me know if these changes have been committed to my homepage.
 
 ### Header 2

@@ -1,6 +1,6 @@
 [Home](https://kostagav.github.io/) | [Research](https://github.com/KostaGav/KostaGav.github.io/blob/master/research.md) | [Projects](https://github.com/KostaGav/KostaGav.github.io/blob/master/projects.md) | [CV](https://github.com/KostaGav/KostaGav.github.io/blob/master/CV.md)
 
-![Konstantin Gavras](/path/to/image.jpg){:class="img-responsive"}
+![Konstantin Gavras](KostaGav.github.io/Gavras-Konstantin-github_small.jpg){:class="img-responsive"}
 
 ## Konstantin Gavras, M.A. 
 

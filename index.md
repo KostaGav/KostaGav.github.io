@@ -2,7 +2,7 @@
 
 ## Konstantin Gavras, M.A. 
 
-<img src=""
+<img src="https://github.com/KostaGav/KostaGav.github.io/blob/master/Gavras-Konstantin-github.jpg"
    style="float:left; margin-right:10px; width:80px; height:80px; border:none;"
    alt="Photo of Konstantin Gavras"
    title="Konstantin Gavras" />

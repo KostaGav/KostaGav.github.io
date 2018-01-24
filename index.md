@@ -1,4 +1,4 @@
-[Home](https://github.com/KostaGav/KostaGav.github.io/edit/master/index.md) | [Research](https://github.com/KostaGav/KostaGav.github.io/edit/master/research.md) | [Projects](https://github.com/KostaGav/KostaGav.github.io/edit/master/projects.md) | [CV](https://github.com/KostaGav/KostaGav.github.io/edit/master/CV.md)
+[Home](https://github.com/KostaGav/KostaGav.github.io/blob/master/index.md) | [Research](https://github.com/KostaGav/KostaGav.github.io/blob/master/research.md) | [Projects](https://github.com/KostaGav/KostaGav.github.io/blob/master/projects.md) | [CV](https://github.com/KostaGav/KostaGav.github.io/blob/master/CV.md)
 
 ## Konstantin Gavras, M.A. 
 

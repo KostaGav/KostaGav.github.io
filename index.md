@@ -18,7 +18,7 @@ I make use of several statistical software in my projects. I mainly work with R 
 
 Since August 2016 I teach undergraduate seminars in Political Sociology and Methods. I taught classes on political ideologies, attitudes and behavior and gave a statistical course in multi-level modeling. In the upcoming semester, I will teach a seminar on survey experiments in Political Science.
 
-My teaching for the undergraduate seminar "Ideologien, Einstellungssysteme und ihre politischen Konsequenzen" was awarded with the GESS Teaching Award 2017.
+My teaching for the undergraduate seminar "Ideologien, Einstellungssysteme und ihre politischen Konsequenzen" in Autumn 2016 was awarded with the GESS Teaching Award 2017.
 
 ### CorrelAid
 

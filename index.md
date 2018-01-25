@@ -1,4 +1,4 @@
-[Home](https://kostagav.github.io/) | [Research](https://github.com/KostaGav/KostaGav.github.io/blob/master/research.md) | [Projects](https://github.com/KostaGav/KostaGav.github.io/blob/master/projects.md) | [Contact](https://github.com/KostaGav/KostaGav.github.io/blob/master/Contact.md)
+[Home](/) | [Research](research/index.md) | [Projects](projects/index.md) | [Contact](contact/index.md)
 
 ## Konstantin Gavras, M.A. 
 

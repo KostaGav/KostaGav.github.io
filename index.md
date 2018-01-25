@@ -1,4 +1,4 @@
-[Home](/) | [Research](research/index.md) | [Projects](projects/index.md) | [Contact](contact/index.md)
+[Home](/index.md) | [Research](research/index.md) | [Projects](projects/index.md) | [Contact](contact/index.md)
 
 ## Konstantin Gavras, M.A. 
 

@@ -1,3 +1,3 @@
-[Home](/index.md) | [Research](KostaGav.github.io/research/index.md) | [Projects](KostaGav.github.io/projects/index.md) | [Contact](KostaGav.github.io/contact/index.md)
+[Home](/index.md) | [Research](/research/index.md) | [Projects](/projects/index.md) | [Contact](/contact/index.md)
 
 ## Research

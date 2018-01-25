@@ -16,6 +16,17 @@ Room 328
 
 Tel.: 0621 181-2083
 
+Skype: <script type="text/javascript" src="https://secure.skypeassets.com/i/scom/js/skype-uri.js"></script>
+<div id="SkypeButton_Call_konstigav_1">
+ <script type="text/javascript">
+ Skype.ui({
+ "name": "call",
+ "element": "SkypeButton_Call_konstigav_1",
+ "participants": ["konstigav"]
+ });
+ </script>
+</div>
+
 E-Mail private: <a href="mailto:konstantin@gavras.de">konstantin@gavras.de</a>
 
 E-Mail work: <a href="mailto:kgavras@mail.uni-mannheim.de">kgavras@mail.uni-mannheim.de</a>

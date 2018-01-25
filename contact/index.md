@@ -14,7 +14,7 @@ Room 328
 
 68131 Mannheim
 
-<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJOdE0KTzMl0cRJqmOcvIiGcQ&key=AIzaSyCNSxcNvY_wAH_tfzGX6RE0mCkF4gxYVKs" allowfullscreen></iframe>
+<a <iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJOdE0KTzMl0cRJqmOcvIiGcQ&key=AIzaSyCNSxcNvY_wAH_tfzGX6RE0mCkF4gxYVKs" allowfullscreen></iframe> /a>
 
 Tel.: 0621 181-2083
 

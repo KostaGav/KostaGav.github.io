@@ -16,6 +16,8 @@ Right-Wing Populist Communication in a Federal System - A topic model approach o
 
 How Voters Decide on How to Decide - Decision Making and Information Search Processes in the Political Domain (with [Sophie Scharf](http://cognition.uni-mannheim.de/mitarbeiter/m_sc_sophie_scharf/))
 
+Political Institutions, Party Competition and Public Opinion in Europe - How Institutional Constraints Shape the Impact of Persuasive Communication on Public Opinion - Master Thesis
+
 ### Books
 
 Schoen, Harald, Hans Rattinger, Maria Preißinger, Konstantin Gavras and  Markus  Steinbrecher (assisted by Elena Werner). 2017. "Election Campaigns and Voter Decision-Marking in a Multi-Party System: The 2009 and 2013 German Federal Elections". Baden-Baden: Nomos. [Link](https://www.nomos-elibrary.de/10.5771/9783845254418-418/ursachen-und-konsequenzen-ambivalenter-einstellungen)

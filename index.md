@@ -12,7 +12,7 @@ In my dissertation I am examining under which conditions citizenship norms have 
 
 Together with my great collegues I am also working on several smaller projects including a machine learning approach to derive ideological positioning and its dependency on the political discourse based on press releases by the German political parties, and a rigorous test of the conflicting hypotheses regarding the changes in citizenship norms over one's lifespan. Additionally, I work on a project investigating the peculiarities of information search processes in the political domain based on the Attraction Search Effect.
 
-I make use of several statistical software in my projects. I mainly work with R for multivariate analysis and Python for web based research, natural language processing and machine learning projects. Additionally, I use Stata and MPlus for specific research projects and am able to work with SPSS.
+I make use of several statistical software in my projects. I mainly work with R for multivariate analysis and Python for web based research, natural language processing and machine learning projects. Additionally, I use Stata and MPlus for specific research projects and am able to work with SPSS. I use MS Office and LaTeX as text processing and presenting tools.
 
 ### Teaching
 

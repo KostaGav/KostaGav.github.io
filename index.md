@@ -22,11 +22,11 @@ My teaching for the undergraduate seminar "Ideologien, Einstellungssysteme und i
 
 ### CorrelAid
 
-Since early 2015 I am member of CorrelAid, a network of young data analysts who seek to change civic society with a more inclusive, integrated and innovative approach to data analysis. The network takes a leading role in pro-bono data analysis and consultation for social organizations within Germany. CorrelAid builds on three pillars: It takes a pioneer role in analytics consulting for Non-Profit-Organizations. It connects young, driven data scientists and offers them the possibility to apply and develop their skills on real world problems. And it starts a dialogue on the potential of data and analytics for civic society.
+Since early 2015 I am member of [CorrelAid](https://correlaid.org/en/), a network of young data analysts who seek to change civic society with a more inclusive, integrated and innovative approach to data analysis. The network takes a leading role in pro-bono data analysis and consultation for social organizations within Germany. CorrelAid builds on three pillars: It takes a pioneer role in analytics consulting for Non-Profit-Organizations. It connects young, driven data scientists and offers them the possibility to apply and develop their skills on real world problems. And it starts a dialogue on the potential of data and analytics for civic society.
 
 With the establishment of CorrelAid, I became a member of our pilot project with the Boy Scouts of Northern Germany and carried out our project with the Assocation of Debatting Unions at Universities [(VDCH)](http://www.vdch.de/) and the German Debating Union [(DDG)](http://deutsche-debattiergesellschaft.de/) as team leader. At the moment I am building a local chapter at the University of Mannheim in which CorrelAid provides the students with workshops and collaborative projects throughout the Rhine Neckar region.
 
-If you want to learn more about CorrelAid, support our great work or become a member of the network, visit CorrelAid or our [website](https://correlaid.org/en/) or follow us on [Twitter](https://twitter.com/correlaid?lang=en).
+If you want to learn more about CorrelAid, support our great work or become a member of the network, visit CorrelAid on our [website](https://correlaid.org/en/) or follow us on [Twitter](https://twitter.com/correlaid?lang=en).
 
 
 

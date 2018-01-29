@@ -30,8 +30,12 @@ In 2017, I was pleased to participate at the CorrelAid Meet-Up in Hamburg. Durin
 
 Since I believe that my code should be publicly available, please find my commented script (in German) [here](https://github.com/KostaGav/KostaGav.github.io/blob/master/resources/Python%20Skript%20Meet%20Up%20CorrelAid.ipynb). 
 
-### CorrelAid Project with the Assocation of Debatting Unions at Universities (Verband der Debattierclubs an Hochschulen)
+### CorrelAid Project with the Assocation of Debating Unions at Universities (Verband der Debattierclubs an Hochschulen)
 
+From March to September 2016 I was the team leader of our CorrelAid project with the Association of Debating Unions at Universities (VDCH) and the German Debating Society (DDG). VDCH and DDG are committed to promote an active debating culture at German universities and asists students to develop their talents and skills. They asked us to develop and implement a member survey to get to know their members, their demands and wishes. Building on these results they aimed to sharpen their organisational and content profile. Together with four project members, we developed a survey from scratch, implemented it online, pre-tested it and launched it to the members of the VDCH and DDG. 
 
+After data acquisition, we analyzed the results and developed a 90 pages full report on the results and implications from the survey, drafted a short report for the members and presented our results at the yearly full assembly of the VDCH. It was the first time that the debating unions received a full overview of their members and realized that their concept spread all over Germany, Austria and Switzerland. For me it was a great experience to coordinate a research team and generate scientific results which have a direct impact for civil society. I am also very proud on my project team, Mirka, Lisa, Thomas, and Fabienne, who did a great job during the project.
+
+If you want to learn more about our project, please read the [interview](http://www.achteminute.de/20161012/der-gemeinnuetzige-aspekt-macht-viel-aus-konstantin-gavras-von-correlaid-im-interview/) I gave the VDCH, or read or short report [online](http://www.achteminute.de/wp-content/uploads/2016/10/DDG-VDCH-Debattierumfrage-2016-Kurzfassung.pdf).
 
 ### CorrelAid Pilot Project with the Boyscouts of Northern Germany (Pfadfinderbund Norddeutschland)

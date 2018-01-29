@@ -24,6 +24,10 @@ AfD: [Code](https://github.com/KostaGav/KostaGav.github.io/tree/master/resources
 
 ### Intro to Python at the CorrelAid Meet-Up in Hamburg
 
+In 2017, I was pleased to participate at the CorrelAid Meet-Up in Hamburg. During this workshop, we welcomed several new members in our network and were able to develop new project ideas with four incredible NGOs from different fields of civil society. On the second day of our Meet-Up we launched several workshops in an open space session. I was invited to give a short introduction to Python and felt honored to give a two hour introduction to over 30 participants.
+
+Since I believe that my code should be publicly available, please find me script [here](). 
+
 ### CorrelAid Project with the Assocation of Debatting Unions at Universities (Verband der Debattierclubs an Hochschulen)
 
 ### CorrelAid Pilot Project with the Boyscouts of Northern Germany (Pfadfinderbund Norddeutschland)

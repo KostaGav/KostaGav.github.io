@@ -26,7 +26,7 @@ Since early 2015 I am member of [CorrelAid](https://correlaid.org/en/), a networ
 
 With the establishment of CorrelAid, I became a member of our pilot project with the Boy Scouts of Northern Germany and carried out our project with the Assocation of Debatting Unions at Universities [(VDCH)](http://www.vdch.de/) and the German Debating Union [(DDG)](http://deutsche-debattiergesellschaft.de/) as team leader. At the moment I am building a local chapter at the University of Mannheim in which CorrelAid provides the students with workshops and collaborative projects throughout the Rhine Neckar region.
 
-If you want to learn more about CorrelAid, support our great work or become a member of the network, visit CorrelAid on our [website](https://correlaid.org/en/) or follow us on [Twitter](https://twitter.com/correlaid?lang=en).
+If you want to learn more about CorrelAid, support our great work or become a member of the network, visit us on our [website](https://correlaid.org/en/) or follow us on [Twitter](https://twitter.com/correlaid?lang=en).
 
 
 

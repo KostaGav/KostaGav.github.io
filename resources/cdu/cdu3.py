@@ -24,7 +24,7 @@ content_list =[]
 
 output = codecs.open("presse/cdu/cdu.tsv","a","utf-8")
 
-for count in range(5896,length_data-1):
+for count in range(0,length_data-1):
     web_page = data[count]
     print web_page
 

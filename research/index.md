@@ -2,7 +2,7 @@
 
 ## Research
 
-### On-going projects
+### Work in progress
 
 Latent Scaling of Press Releases and Party Manifestos - Different, Different, but Same? - Working paper prepared for the Manifesto Corpus Conference, February 1 to 2, 2018, Berlin (with [David Hilpert](http://reforms.uni-mannheim.de/Members/researchers/hilpert/))
 

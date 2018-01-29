@@ -4,19 +4,19 @@
 
 ### Work in progress
 
-Latent Scaling of Press Releases and Party Manifestos - Different, Different, but Same? - Working paper prepared for the Manifesto Corpus Conference, February 1 to 2, 2018, Berlin (with [David Hilpert](http://reforms.uni-mannheim.de/Members/researchers/hilpert/))
+Latent Scaling of Press Releases and Party Manifestos. Different, Different, but Same? - Working paper prepared for the Manifesto Corpus Conference, February 1 to 2, 2018, Berlin (with [David Hilpert](http://reforms.uni-mannheim.de/Members/researchers/hilpert/))
 
 Conditional Impacts of Citizenship Norms - Conceptualizing Citizenship Norms Within the Framework of Personal and Social Norms
 
 Is it all about generations? Examining competing theories on the temporal dynamics of citizenship norms in consolidated democracies - paper submitted in Comparativ Political Studies (with [Alexander Wuttke](http://www.alexander-wuttke.de/) and [Harald Schoen](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/))
 
-Eine vorübergehende Verstimmung? Die Flüchtlingskrise und die Bürgerurteile über Regierung und Regierungsparteien (with Harald Schoen)
+Eine vorübergehende Verstimmung? Die Flüchtlingskrise und die Bürgerurteile über Regierung und Regierungsparteien (with [Harald Schoen](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/))
 
-Right-Wing Populist Communication in a Federal System - A topic model approach on press releases of the AfD - Working paper prepared for the ECPR Summer School: Big Data in the Social Sciences lectured by [Pablo Barberá](http://pablobarbera.com/)
+Right-Wing Populist Communication in a Federal System. A topic model approach on press releases of the AfD - Working paper prepared for the ECPR Summer School: Big Data in the Social Sciences lectured by [Pablo Barberá](http://pablobarbera.com/)
 
 How Voters Decide on How to Decide - Decision Making and Information Search Processes in the Political Domain (with [Sophie Scharf](http://cognition.uni-mannheim.de/mitarbeiter/m_sc_sophie_scharf/))
 
-Political Institutions, Party Competition and Public Opinion in Europe - How Institutional Constraints Shape the Impact of Persuasive Communication on Public Opinion - Master Thesis
+Political Institutions, Party Competition and Public Opinion in Europe. How Institutional Constraints Shape the Impact of Persuasive Communication on Public Opinion - Master Thesis
 
 ### Books
 

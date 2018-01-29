@@ -32,6 +32,8 @@ Since I believe that my code should be publicly available, please find my commen
 
 ### CorrelAid Project with the Assocation of Debating Unions at Universities (Verband der Debattierclubs an Hochschulen)
 
+![survey](survey-opinion-research-voting-fill-159353.jpeg)
+
 From March to September 2016 I was the team leader of our CorrelAid project with the Association of Debating Unions at Universities (VDCH) and the German Debating Society (DDG). VDCH and DDG are committed to promote an active debating culture at German universities and asists students to develop their talents and skills. They asked us to develop and implement a member survey to get to know their members, their demands and wishes. Building on these results they aimed to sharpen their organisational and content profile. Together with four project members, we developed a survey from scratch, implemented it online, pre-tested it and launched it to the members of the VDCH and DDG. 
 
 After data acquisition, we analyzed the results and developed a 90 pages full report on the results and implications from the survey, drafted a short report for the members and presented our results at the yearly full assembly of the VDCH. It was the first time that the debating unions received a full overview of their members and realized that their concept spread all over Germany, Austria and Switzerland. For me it was a great experience to coordinate a research team and generate scientific results which have a direct impact for civil society. I am also very proud on my project team, Mirka, Lisa, Thomas, and Fabienne, who did a great job during the project.

@@ -38,6 +38,6 @@ From March to September 2016 I was the team leader of our CorrelAid project with
 
 After data acquisition, we analyzed the results and developed a 90 pages full report on the results and implications from the survey, drafted a short report for the members and presented our results at the yearly full assembly of the VDCH. It was the first time that the debating unions received a full overview of their members and realized that their concept spread all over Germany, Austria and Switzerland. For me it was a great experience to coordinate a research team and generate scientific results which have a direct impact for civil society. I am also very proud on my project team, Mirka, Lisa, Thomas, and Fabienne, who did a great job during the project.
 
-If you want to learn more about our project, please read the [interview](http://www.achteminute.de/20161012/der-gemeinnuetzige-aspekt-macht-viel-aus-konstantin-gavras-von-correlaid-im-interview/) I gave the VDCH, or read or short report [online](http://www.achteminute.de/wp-content/uploads/2016/10/DDG-VDCH-Debattierumfrage-2016-Kurzfassung.pdf).
+If you want to learn more about our project, please read the [interview](http://www.achteminute.de/20161012/der-gemeinnuetzige-aspekt-macht-viel-aus-konstantin-gavras-von-correlaid-im-interview/) I gave the VDCH, or read our short report [online](http://www.achteminute.de/wp-content/uploads/2016/10/DDG-VDCH-Debattierumfrage-2016-Kurzfassung.pdf).
 
 ### CorrelAid Pilot Project with the Boyscouts of Northern Germany (Pfadfinderbund Norddeutschland)

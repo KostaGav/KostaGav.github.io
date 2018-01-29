@@ -12,15 +12,15 @@ Privacy disclaimer: Do not scrape homepages when you are unsure whether the Term
 
 CDU/CSU: [Code](https://github.com/KostaGav/KostaGav.github.io/tree/master/resources/cdu)
 
-SPD: [Code]()
+SPD: [Code](https://github.com/KostaGav/KostaGav.github.io/tree/master/resources/spd)
 
-FDP: [Code]()
+FDP: [Code](https://github.com/KostaGav/KostaGav.github.io/tree/master/resources/fdp)
 
-Greens: [Code]()
+Greens: [Code](https://github.com/KostaGav/KostaGav.github.io/tree/master/resources/greens)
 
-The Left: [Code]()
+The Left: [Code](https://github.com/KostaGav/KostaGav.github.io/tree/master/resources/left)
 
-AfD: [Code]()
+AfD: [Code](https://github.com/KostaGav/KostaGav.github.io/tree/master/resources/afd)
 
 ### Intro to Python at the CorrelAid Meet-Up in Hamburg
 

@@ -16,8 +16,8 @@ Room 328
 
 Tel.: 0621 181-2083
 
-E-Mail private: <a href="mailto:konstantin@gavras.de">konstantin@gavras.de</a>
+E-Mail (private): <a href="mailto:konstantin@gavras.de">konstantin@gavras.de</a>
 
-E-Mail work: <a href="mailto:kgavras@mail.uni-mannheim.de">kgavras@mail.uni-mannheim.de</a>
+E-Mail (work): <a href="mailto:kgavras@mail.uni-mannheim.de">kgavras@mail.uni-mannheim.de</a>
 
-E-Mail CorrelAid: <a href="mailto:mannheim@correlaid.org">mannheim@correlaid.org</a>
+E-Mail (CorrelAid): <a href="mailto:mannheim@correlaid.org">mannheim@correlaid.org</a>

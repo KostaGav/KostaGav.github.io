@@ -2,7 +2,7 @@
 
 ## Konstantin Gavras, M.A. 
 
-I am a Ph.D. candidate at the [Graduate School of Economic and Social Sciences](https://gess.uni-mannheim.de/) in Political Science and research associate at the [chair of Political Psychology](http://lspwpp.sowi.uni-mannheim.de/english/team/researchers_and_assistant_lecturers/Konstantin%20Gavras/) at the University of Mannheim. 
+I am a Ph.D. candidate at the [Graduate School of Economic and Social Sciences](https://gess.uni-mannheim.de/) in Political Science and research associate at the [Chair of Political Psychology](http://lspwpp.sowi.uni-mannheim.de/english/team/researchers_and_assistant_lecturers/Konstantin%20Gavras/) at the University of Mannheim. 
 
 ### Research
 

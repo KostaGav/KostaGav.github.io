@@ -4,8 +4,6 @@
 
 ### Work in progress
 
-**Latent Scaling of Press Releases and Party Manifestos. Different, Different, but Same?** - Working paper prepared for the Manifesto Corpus Conference, February 1 to 2, 2018, Berlin (with [David Hilpert](http://reforms.uni-mannheim.de/Members/researchers/hilpert/))
-
 **Conditional Impacts of Citizenship Norms - Conceptualizing Citizenship Norms Within the Framework of Personal and Social Norms**
 
 **Is it all about generations? Examining competing theories on the temporal dynamics of citizenship norms in consolidated democracies** - paper submitted in Comparativ Political Studies (with [Alexander Wuttke](http://www.alexander-wuttke.de/) and [Harald Schoen](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/))
@@ -25,6 +23,12 @@ Schoen, Harald, Hans Rattinger, Maria Preißinger, Konstantin Gavras and  Markus
 ### Articles
 
 Blumenstiel, Jan Eric und Konstantin Leonardo Gavras. 2015. **Ursachen und Konsequenzen ambivalenter Einstellungen.** In: Harald Schoen, Cornelia Frank, Thorsten Fass (Hrsg.). PVS-Sonderheft „Politische Psychologie“. Baden-Baden: Nomos: 413-438. [Link](https://www.nomos-elibrary.de/10.5771/9783845273228/election-campaigns-and-voter-decision-making-in-a-multi-party-system) [Reproduction](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/Monographien/Reproduction.zip)
+
+### Conference Papers
+
+Gavras, Konstantin and David Hilpert. 2018. **Latent Scaling of Press Releases and Party Manifestos. Different, Different, but Same?** Working paper prepared for the Manifesto Corpus Conference, February 1 to 2, 2018, Berlin. 
+
+Gavras, Konstantin and David Hilpert. 2018. **Tracking Political Shifts During the Electoral Cycle - A Latent Variable Approach Using Press Releases** Working paper prepared for the Midwestern Political Science Association Conference, April 5 to 8, 2018, Chicago.
 
 ### Book reviews
 

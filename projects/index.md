@@ -2,6 +2,12 @@
 
 ## Projects
 
+### Getting a Data-Set from the Polling Data on [Wahlrecht.de](http://www.wahlrecht.de/)
+
+The independent and non-commercial homepage Wahlrecht.de provides researchers, journalists and the interested public with information about all election results and the accompanying polling data from the biggest polling institutes in Germany. However, the data is not provided in an easy-to-use format, but still saved on a classical HTML homepage. From this, one is able to retrieve the data using web scraping and data cleansing methods. In this project, I show how to use the software R and the package rvest to scrape the polling data and create a nicely formatted data frame using simple R base. 
+
+You can find my code [here](https://github.com/KostaGav/pollingdata_germany)
+
 ### Scraping and Pre-Processing Press Releases from Political Parties using Python
 
 ![press releases](berlin-eu-european-union-federal-chancellery.jpg)

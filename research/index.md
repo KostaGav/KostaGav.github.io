@@ -18,17 +18,17 @@
 
 ### Books
 
-Schoen, Harald, Hans Rattinger, Maria Preißinger, Konstantin Gavras and  Markus  Steinbrecher (assisted by Elena Werner). 2017. **Election Campaigns and Voter Decision-Marking in a Multi-Party System: The 2009 and 2013 German Federal Elections.** Baden-Baden: Nomos. [Link](https://www.nomos-elibrary.de/10.5771/9783845254418-418/ursachen-und-konsequenzen-ambivalenter-einstellungen)
+Schoen, Harald, Hans Rattinger, Maria Preißinger, Konstantin Gavras and  Markus  Steinbrecher (assisted by Elena Werner). 2017. **Election Campaigns and Voter Decision-Marking in a Multi-Party System: The 2009 and 2013 German Federal Elections.** Baden-Baden: Nomos. [Link](https://www.nomos-elibrary.de/10.5771/9783845254418-418/ursachen-und-konsequenzen-ambivalenter-einstellungen) [Reproduction](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/Monographien/Reproduction.zip)
 
 ### Articles
 
-Blumenstiel, Jan Eric und Konstantin Leonardo Gavras. 2015. **Ursachen und Konsequenzen ambivalenter Einstellungen.** In: Harald Schoen, Cornelia Frank, Thorsten Fass (Hrsg.). PVS-Sonderheft „Politische Psychologie“. Baden-Baden: Nomos: 413-438. [Link](https://www.nomos-elibrary.de/10.5771/9783845273228/election-campaigns-and-voter-decision-making-in-a-multi-party-system) [Reproduction](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/Monographien/Reproduction.zip)
+Blumenstiel, Jan Eric und Konstantin Leonardo Gavras. 2015. **Ursachen und Konsequenzen ambivalenter Einstellungen.** In: Harald Schoen, Cornelia Frank, Thorsten Fass (Hrsg.). PVS-Sonderheft „Politische Psychologie“. Baden-Baden: Nomos: 413-438. [Link](https://www.nomos-elibrary.de/10.5771/9783845273228/election-campaigns-and-voter-decision-making-in-a-multi-party-system) 
 
 ### Conference Papers
 
 Gavras, Konstantin and David Hilpert. 2018. **Latent Scaling of Press Releases and Party Manifestos. Different, Different, but Same?** Working paper prepared for the Manifesto Corpus Conference, February 1 to 2, 2018, Berlin. 
 
-Gavras, Konstantin and David Hilpert. 2018. **Tracking Political Shifts During the Electoral Cycle - A Latent Variable Approach Using Press Releases** Working paper prepared for the Midwestern Political Science Association Conference, April 5 to 8, 2018, Chicago.
+Gavras, Konstantin and David Hilpert. 2018. **Tracking Political Shifts During the Electoral Cycle - A Latent Variable Approach Using Press Releases.** Working paper prepared for the Midwestern Political Science Association Conference, April 5 to 8, 2018, Chicago.
 
 ### Book reviews
 

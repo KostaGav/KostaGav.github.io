@@ -6,7 +6,7 @@
 
 **Conditional Impacts of Citizenship Norms - Conceptualizing Citizenship Norms Within the Framework of Personal and Social Norms**
 
-**Is it all about generations? Examining competing theories on the temporal dynamics of citizenship norms in consolidated democracies** - paper submitted in Comparativ Political Studies (with [Alexander Wuttke](http://www.alexander-wuttke.de/) and [Harald Schoen](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/))
+**Is it all about generations? Examining competing theories on the temporal dynamics of citizenship norms in consolidated democracies** (with [Alexander Wuttke](http://www.alexander-wuttke.de/) and [Harald Schoen](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/))
 
 **Eine vorübergehende Verstimmung? Die Flüchtlingskrise und die Bürgerurteile über Regierung und Regierungsparteien** (with [Harald Schoen](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/))
 

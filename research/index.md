@@ -4,11 +4,9 @@
 
 ### Work in progress
 
-**Conditional Impacts of Citizenship Norms - Conceptualizing Citizenship Norms Within the Framework of Personal and Social Norms**
+**Clearing the Fog Obscuring Citizenship Norms - Towards a Clear Conceptualization of Citizenship Norms and Social Norms** (submitted in the Journal of Politics)
 
 **Is it all about generations? Examining competing theories on the temporal dynamics of citizenship norms in consolidated democracies** (with [Alexander Wuttke](http://www.alexander-wuttke.de/) and [Harald Schoen](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/))
-
-**Eine vorübergehende Verstimmung? Die Flüchtlingskrise und die Bürgerurteile über Regierung und Regierungsparteien** (with [Harald Schoen](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/))
 
 **Right-Wing Populist Communication in a Federal System. A topic model approach on press releases of the AfD** - Working paper prepared for the ECPR Summer School: Big Data in the Social Sciences lectured by [Pablo Barberá](http://pablobarbera.com/)
 
@@ -23,6 +21,8 @@ Schoen, Harald, Hans Rattinger, Maria Preißinger, Konstantin Gavras and  Markus
 ### Articles
 
 Blumenstiel, Jan Eric und Konstantin Leonardo Gavras. 2015. **Ursachen und Konsequenzen ambivalenter Einstellungen.** In: Harald Schoen, Cornelia Frank, Thorsten Fass (Hrsg.). PVS-Sonderheft „Politische Psychologie“. Baden-Baden: Nomos: 413-438. [Link](https://www.nomos-elibrary.de/10.5771/9783845273228/election-campaigns-and-voter-decision-making-in-a-multi-party-system) 
+
+Schoen, Harald and Konstantin Gavras. 2018. **Eher anhaltende Polarisierung als vorübergehende Verstimmung. Die Flüchtlingskrise und die Bürgerurteile über die Große Koalition zwischen 2013 und 2017** In: Saalfeld, Thomas and Reimut Zohlnhöfer (Hrsg.). Die Große Koalition 2013-2017: Eine Koalition der "Getriebenen"?: 17-38.
 
 ### Conference Papers
 

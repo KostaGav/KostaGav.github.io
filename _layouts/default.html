@@ -5,6 +5,17 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <script async defer src="https://buttons.github.io/buttons.js"></script>
 
+    <style>
+      html, body {
+        height: 100%;
+      }
+
+      img.resize {
+       height: 50%;
+       width: 50%;
+      }
+      </style>
+    
 {% seo %}
     <link href='https://fonts.googleapis.com/css?family=Arvo:400,700,400italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
@@ -17,8 +28,13 @@
   <body>
     <div class="wrapper">
       <header>
+        
+        <img class="resize" src="{{site.baseurl}}/Gavras-Konstantin-github.jpg" width="300" height="300">
+        
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
+        
+        <p><a href="{{site.baseurl}}/Gavras_CV.pdf">Curriculum Vitae</a></p>
 
         <p>e-Mail: <a href="mailto:konstantin@gavras.de"><font color="black">konstantin@gavras.de</font></a></p>
         
@@ -27,6 +43,7 @@
         <a class="github-button" href="https://github.com/KostaGav" aria-label="Follow @KostaGav on GitHub">Follow @KostaGav</a>
        
        </header>
+      
 
       <section>
         {{ content }}

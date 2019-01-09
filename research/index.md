@@ -26,7 +26,7 @@ Schoen, Harald and Konstantin Gavras. 2018. **Eher anhaltende Polarisierung als 
 
 ### Conference Papers
 
-Gavras, Konstantin, Matthias Mader and Harald Schoen. 2018. **Understanding Support for the EU's Common Security and Defence Policy** Working paper prepared for the Workshop 'Understanding Policy Preferences Using Experimental Methods', December 17 to 18, Mannheim.
+Gavras, Konstantin, Matthias Mader and Harald Schoen. 2018. **Understanding Support for the EU's Common Security and Defence Policy.** Working paper prepared for the Workshop 'Understanding Policy Preferences Using Experimental Methods', December 17 to 18, Mannheim.
 
 Gavras, Konstantin and David Hilpert. 2018. **Latent Scaling of Press Releases and Party Manifestos. Different, Different, but Same?** Working paper prepared for the Manifesto Corpus Conference, February 1 to 2, 2018, Berlin. 
 

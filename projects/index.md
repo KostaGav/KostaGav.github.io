@@ -2,6 +2,12 @@
 
 ## Projects
 
+### Scraping news articles from the [Web Archive](http://web.archive.org/) using Rcrawler
+
+In this small project, I provide R code to scrape news paper articles from the web archive. As an example, the script runs on faz.net news articles from 2018. Written with easy to read R code and outputs a tibble including all news articles and the accompanying meta data. Full scaling to other news papers is not easily possible, since the HTML tags used to container the articles differ heavily between the newspapers.
+
+You can find my code [here](https://github.com/KostaGav/NewspaperScraping)
+
 ### Getting a Data-Set from the Polling Data on [Wahlrecht.de](http://www.wahlrecht.de/)
 
 The independent and non-commercial homepage Wahlrecht.de provides researchers, journalists and the interested public with information about all election results and the accompanying polling data from the biggest polling institutes in Germany. However, the data is not provided in an easy-to-use format, but still saved on a classical HTML homepage. From this, one is able to retrieve the data using web scraping and data cleansing methods. In this project, I show how to use the software R and the package rvest to scrape the polling data and create a nicely formatted data frame using simple R base. 

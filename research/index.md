@@ -4,7 +4,7 @@
 
 ### Work in progress
 
-**Clearing the Fog Obscuring Citizenship Norms - Towards a Clear Conceptualization of Citizenship Norms and Social Norms** (submitted in the Journal of Politics)
+**Are Democracies Dying One Generation at a Time?** (with [Alexander Wuttke](http://www.alexander-wuttke.de/) and [Harald Schoen](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/))
 
 **Is it all about generations? Examining competing theories on the temporal dynamics of citizenship norms in consolidated democracies** (with [Alexander Wuttke](http://www.alexander-wuttke.de/) and [Harald Schoen](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/))
 
@@ -25,6 +25,10 @@ Blumenstiel, Jan Eric und Konstantin Leonardo Gavras. 2015. **Ursachen und Konse
 Schoen, Harald and Konstantin Gavras. 2018. **Eher anhaltende Polarisierung als vorübergehende Verstimmung. Die Flüchtlingskrise und die Bürgerurteile über die Große Koalition zwischen 2013 und 2017** In: Saalfeld, Thomas and Reimut Zohlnhöfer (Hrsg.). Die Große Koalition 2013-2017: Eine Koalition der "Getriebenen"?: 17-38.
 
 ### Conference Papers
+
+Gavras, Konstantin. 2019. **Voice Recording in Mobile Web Surveys. Evidence From An Experiment on Open-Ended Responses to the 'Final Comment'.** Working paper prepared for the General Online Research Conference, March 6 to 8, Cologne.
+
+Gavras, Konstantin. 2019. **Inferring Policy Preferences from Strategy Papers on National Security in Europe using (Un-) Supervised Machine Learning Techniques.** 'Social Science Data Lab', February 27, MZES Mannheim.
 
 Gavras, Konstantin, Matthias Mader and Harald Schoen. 2018. **Understanding Support for the EU's Common Security and Defence Policy.** Working paper prepared for the Workshop 'Understanding Policy Preferences Using Experimental Methods', December 17 to 18, Mannheim.
 

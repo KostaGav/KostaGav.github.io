@@ -8,8 +8,6 @@
 
 **Is it all about generations? Examining competing theories on the temporal dynamics of citizenship norms in consolidated democracies** (with [Alexander Wuttke](http://www.alexander-wuttke.de/) and [Harald Schoen](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/))
 
-**Right-Wing Populist Communication in a Federal System. A topic model approach on press releases of the AfD** - Working paper prepared for the ECPR Summer School: Big Data in the Social Sciences lectured by [Pablo Barberá](http://pablobarbera.com/)
-
 **How Voters Decide on How to Decide - Decision Making and Information Search Processes in the Political Domain** (with [Sophie Scharf](http://cognition.uni-mannheim.de/mitarbeiter/m_sc_sophie_scharf/))
 
 **Political Institutions, Party Competition and Public Opinion in Europe. How Institutional Constraints Shape the Impact of Persuasive Communication on Public Opinion** - Master Thesis
@@ -25,6 +23,8 @@ Blumenstiel, Jan Eric und Konstantin Leonardo Gavras. 2015. **Ursachen und Konse
 Schoen, Harald and Konstantin Gavras. 2018. **Eher anhaltende Polarisierung als vorübergehende Verstimmung. Die Flüchtlingskrise und die Bürgerurteile über die Große Koalition zwischen 2013 und 2017** In: Saalfeld, Thomas and Reimut Zohlnhöfer (Hrsg.). Die Große Koalition 2013-2017: Eine Koalition der "Getriebenen"?: 17-38.
 
 ### Conference Papers
+
+Gavras, Konstantin, Matthias Mader and Harald Schoen. 2019. **Convergence or Divergence in Strategic Cultures in Europe since the End of the Cold War? - A Quantitative Text Analysis of Strategy Papers.** Working paper prepared for the CEEISA-ISA 2019 Joint International Conference, June 16 to 20, Belgrade.
 
 Gavras, Konstantin. 2019. **Voice Recording in Mobile Web Surveys. Evidence From An Experiment on Open-Ended Responses to the 'Final Comment'.** Working paper prepared for the General Online Research Conference, March 6 to 8, Cologne.
 

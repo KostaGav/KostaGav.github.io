@@ -26,6 +26,8 @@ Schoen, Harald and Konstantin Gavras. 2018. **Eher anhaltende Polarisierung als 
 
 Gavras, Konstantin, Matthias Mader and Harald Schoen. 2019. **Convergence or Divergence in Strategic Cultures in Europe since the End of the Cold War? - A Quantitative Text Analysis of Strategy Papers.** Working paper prepared for the CEEISA-ISA 2019 Joint International Conference, June 16 to 20, Belgrade.
 
+Gavras, Konstantin, Alexander Wuttke and Harald Schoen. 2019. **Anführer der freien Welt oder Vorbote demokratischer Dekonsolidierung? Die Entwicklung der Demokratieunterstützung in Ost- und West-Deutschland seit der Wiedervereinigung.** Working paper prepared for the Tagung des DVPW-Arbeitskreises "Wahlen und politische Einstellungen", May 9 to 10, Mannheim.
+
 Gavras, Konstantin. 2019. **Voice Recording in Mobile Web Surveys. Evidence From An Experiment on Open-Ended Responses to the 'Final Comment'.** Working paper prepared for the General Online Research Conference, March 6 to 8, Cologne.
 
 Gavras, Konstantin. 2019. **Inferring Policy Preferences from Strategy Papers on National Security in Europe using (Un-) Supervised Machine Learning Techniques.** 'Social Science Data Lab', February 27, MZES Mannheim.

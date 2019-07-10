@@ -6,7 +6,7 @@ I am a Ph.D. candidate at the [Graduate School of Economic and Social Sciences](
 
 ### Research
 
-My core research interests comprise the intersection of Social Psychology and Political Behavior, focusing on the behavioral consequences and conditions underlying political attitudes regarding both domestic and foreign policies. I am also interested in the determinants of political attitudes and their impact on voting behavior and the mechanisms of elite-media-public political communication. Methodologically, I employ  natural language processing, multi-level modeling, quantitative text analysis and latent modeling framework,.
+My core research interests comprise the intersection of Social Psychology and Political Behavior, focusing on the behavioral consequences and conditions underlying political attitudes regarding both domestic and foreign policies. I am also interested in the determinants of political attitudes and their impact on voting behavior and the mechanisms of elite-media-public political communication. Methodologically, I employ  natural language processing, multi-level modeling, quantitative text analysis and latent modeling framework.
 
 In my dissertation, I am examining political communication in multi-level systems with conflicting elite actors. Examplified by the Common Security and Defense Policy of the European Union, I show that a Europeanization of policy-making also has attitudinal and communicative consequences. Analyzing both text and survey data from all over Europe, I aim to provide a comprehensive picture of political communication in this multi-level system. 
 

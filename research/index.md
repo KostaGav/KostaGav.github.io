@@ -8,9 +8,11 @@
 
 **Is it all about generations? Examining competing theories on the temporal dynamics of citizenship norms in consolidated democracies** (with [Alexander Wuttke](http://www.alexander-wuttke.de/) and [Harald Schoen](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/))
 
-**How Voters Decide on How to Decide - Decision Making and Information Search Processes in the Political Domain** (with [Sophie Scharf](http://cognition.uni-mannheim.de/mitarbeiter/m_sc_sophie_scharf/))
+**Convergence or Divergence in Strategic Cultures in Europe since the End of the Cold War? A Quantitative Text Analysis of Strategy Papers** (with [Matthias Mader](https://www.sowi.uni-mannheim.de/schoen/team/akademische-mitarbeiterinnen-und-mitarbeiter/mader-matthias-dr/) and [Harald Schoen](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/))
 
-**Political Institutions, Party Competition and Public Opinion in Europe. How Institutional Constraints Shape the Impact of Persuasive Communication on Public Opinion** - Master Thesis
+**Learning Democracy, Unlearning Autocracy? The Consequences of Socialization through Education in Two Germanies – An APC Analysis** (with [Alexander Wuttke](http://www.alexander-wuttke.de/) and [Harald Schoen](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/))
+
+**How Voters Decide on How to Decide - Decision Making and Information Search Processes in the Political Domain** (with [Sophie Scharf](http://cognition.uni-mannheim.de/mitarbeiter/m_sc_sophie_scharf/))
 
 ### Books
 
@@ -23,6 +25,8 @@ Blumenstiel, Jan Eric und Konstantin Leonardo Gavras. 2015. **Ursachen und Konse
 Schoen, Harald and Konstantin Gavras. 2018. **Eher anhaltende Polarisierung als vorübergehende Verstimmung. Die Flüchtlingskrise und die Bürgerurteile über die Große Koalition zwischen 2013 und 2017** In: Saalfeld, Thomas and Reimut Zohlnhöfer (Hrsg.). Die Große Koalition 2013-2017: Eine Koalition der "Getriebenen"?: 17-38.
 
 ### Conference Papers
+
+Gavras, Konstantin. 2019. **Understanding Public Opinion towards the Common Security and Defence Policy (CSDP) – An Empirical Examination of Attitude Formation in High Politics** Working paper prepared for the ECPR General Conference 2019, September 3 to 6, Wrocław.
 
 Moreau, Christian, Rahel Becker, Moritz Fahrenholz, Konstantin Gavras, Navid Ghazayi, Lisa Hehnke, Verena Svenja Klar, Katharina Kloppenburg, Arndt Leininger, Johannes Müller and Friederike Preu. 2019. **Implementing a Classification and Filtering App for Multilingual Facebook Comments – A Use Case Of Data For Good with R** Lightning talk at the useR! 2019 Conference, July 9 to 12, Toulouse.
 
@@ -43,3 +47,8 @@ Gavras, Konstantin and David Hilpert. 2018. **Tracking Political Shifts During t
 ### Book reviews
 
 Gavras, Konstantin Leonardo. 2017. **Book Review: Citizenship Agenda in and beyond the Nation-State by Martijn Koster, Rivke Jaffe and Anouk de Koning (eds).** Political Studies Review 15 (4): 652. [Link](http://journals.sagepub.com/doi/abs/10.1177/1478929917720411)
+
+### Master Thesis
+
+Gavras, Konstantin. 2016. **Political Institutions, Party Competition and Public Opinion in Europe. How Institutional Constraints Shape the Impact of Persuasive Communication on Public Opinion**
+

@@ -12,6 +12,8 @@
 
 **Learning Democracy, Unlearning Autocracy? The Consequences of Socialization through Education in Two Germanies – An APC Analysis** (with [Alexander Wuttke](http://www.alexander-wuttke.de/) and [Harald Schoen](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/))
 
+**Text and voice inputs: Answering open narrative questions in smartphone surveys** (with [Annelies Blom](https://www.sowi.uni-mannheim.de/blom/) and [Jan Karem Höhne](https://reforms.uni-mannheim.de/internet_panel/Team/hoehne_jan/))
+
 **How Voters Decide on How to Decide - Decision Making and Information Search Processes in the Political Domain** (with [Sophie Scharf](http://cognition.uni-mannheim.de/mitarbeiter/m_sc_sophie_scharf/))
 
 ### Books

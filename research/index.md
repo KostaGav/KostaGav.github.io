@@ -26,6 +26,10 @@ Blumenstiel, Jan Eric und Konstantin Leonardo Gavras. 2015. **Ursachen und Konse
 
 Schoen, Harald and Konstantin Gavras. 2018. **Eher anhaltende Polarisierung als vorübergehende Verstimmung. Die Flüchtlingskrise und die Bürgerurteile über die Große Koalition zwischen 2013 und 2017** In: Saalfeld, Thomas and Reimut Zohlnhöfer (Hrsg.). Die Große Koalition 2013-2017: Eine Koalition der "Getriebenen"?: 17-38.
 
+### Data sets
+
+Müller, Johannes, Konstantin Gavras und Lisa Hehnke. 2019. **Twitter Data on the #MeTwo Movement.** doi: 10.17605/OSF.IO/CV79Z
+
 ### Conference Papers
 
 Gavras, Konstantin. 2019. **Understanding Public Opinion towards the Common Security and Defence Policy (CSDP) – An Empirical Examination of Attitude Formation in High Politics** Working paper prepared for the ECPR General Conference 2019, September 3 to 6, Wrocław.

@@ -32,6 +32,8 @@ Müller, Johannes, Konstantin Gavras und Lisa Hehnke. 2019. **Twitter Data on th
 
 ### Conference Papers
 
+Gavras, Konstantin. 2019. **The European Common Security and Defense Policy in Times of Public Attention - Linking Masses and Elites Through Multi-Dimensional Communication Flows** Working paper prepared for the EPOP Conference 2019, September 13 to 15, Glasgow.
+
 Gavras, Konstantin. 2019. **Understanding Public Opinion towards the Common Security and Defence Policy (CSDP) – An Empirical Examination of Attitude Formation in High Politics** Working paper prepared for the ECPR General Conference 2019, September 3 to 6, Wrocław.
 
 Moreau, Christian, Rahel Becker, Moritz Fahrenholz, Konstantin Gavras, Navid Ghazayi, Lisa Hehnke, Verena Svenja Klar, Katharina Kloppenburg, Arndt Leininger, Johannes Müller and Friederike Preu. 2019. **Implementing a Classification and Filtering App for Multilingual Facebook Comments – A Use Case Of Data For Good with R** Lightning talk at the useR! 2019 Conference, July 9 to 12, Toulouse.

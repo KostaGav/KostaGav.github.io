@@ -15,13 +15,13 @@
 
 ### Articles
 
-Blumenstiel, Jan Eric und Konstantin Leonardo Gavras. 2015. **Ursachen und Konsequenzen ambivalenter Einstellungen.** In: Harald Schoen, Cornelia Frank, Thorsten Fass (Hrsg.). PVS-Sonderheft „Politische Psychologie“. Baden-Baden: Nomos: 413-438. [Link](https://www.nomos-elibrary.de/10.5771/9783845273228/election-campaigns-and-voter-decision-making-in-a-multi-party-system) 
-
-Schoen, Harald and Konstantin Gavras. 2018. **Eher anhaltende Polarisierung als vorübergehende Verstimmung. Die Flüchtlingskrise und die Bürgerurteile über die Große Koalition zwischen 2013 und 2017** In: Saalfeld, Thomas and Reimut Zohlnhöfer (Hrsg.). Die Große Koalition 2013-2017: Eine Koalition der "Getriebenen"?: 17-38.
+Wuttke, Alexander, Konstantin Gavras and Harald Schoen. 2020. **Have Europeans Grown Tired of Democracy? New Evidence from 18 Consolidated Democracies, 1981-2018** British Journal of Political Science (accepted).
 
 Wuttke, Alexander, Konstantin Gavras and Harald Schoen. 2020. **Leader of the free world or pioneer in democracy's decline? Examining the democratic deconsolidation hypothesis on the mass level in East and West Germany** Research & Politics (online first). [Link](https://journals.sagepub.com/doi/full/10.1177/2053168019900822)
 
-Wuttke, Alexander, Konstantin Gavras and Harald Schoen. 2020. **Have Europeans Grown Tired of Democracy? New Evidence from 18 Consolidated Democracies, 1981-2018** British Journal of Political Science (accepted).
+Schoen, Harald and Konstantin Gavras. 2019 **Eher anhaltende Polarisierung als vorübergehende Verstimmung. Die Flüchtlingskrise und die Bürgerurteile über die Große Koalition zwischen 2013 und 2017** In: Saalfeld, Thomas and Reimut Zohlnhöfer (Hrsg.). Die Große Koalition 2013-2017: Eine Koalition der "Getriebenen"?: 17-38.
+
+Blumenstiel, Jan Eric und Konstantin Leonardo Gavras. 2015. **Ursachen und Konsequenzen ambivalenter Einstellungen.** In: Harald Schoen, Cornelia Frank, Thorsten Fass (Hrsg.). PVS-Sonderheft „Politische Psychologie“. Baden-Baden: Nomos: 413-438. [Link](https://www.nomos-elibrary.de/10.5771/9783845273228/election-campaigns-and-voter-decision-making-in-a-multi-party-system) 
 
 ### Books
 

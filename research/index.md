@@ -4,27 +4,29 @@
 
 ### Work in progress
 
-**Are Democracies Dying One Generation at a Time?** (with [Alexander Wuttke](http://www.alexander-wuttke.de/) and [Harald Schoen](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/))
-
-**Is it all about generations? Examining competing theories on the temporal dynamics of citizenship norms in consolidated democracies** (with [Alexander Wuttke](http://www.alexander-wuttke.de/) and [Harald Schoen](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/))
+**Politicizing Issues in Times of European Integration – A QTA Approach on Politicization in an Ever Closer Union** Dissertation
 
 **Convergence or Divergence in Strategic Cultures in Europe since the End of the Cold War? A Quantitative Text Analysis of Strategy Papers** (with [Matthias Mader](https://www.sowi.uni-mannheim.de/schoen/team/akademische-mitarbeiterinnen-und-mitarbeiter/mader-matthias-dr/) and [Harald Schoen](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/))
-
-**Learning Democracy, Unlearning Autocracy? The Consequences of Socialization through Education in Two Germanies – An APC Analysis** (with [Alexander Wuttke](http://www.alexander-wuttke.de/) and [Harald Schoen](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/))
 
 **Text and voice inputs: Answering open narrative questions in smartphone surveys** (with [Annelies Blom](https://www.sowi.uni-mannheim.de/blom/) and [Jan Karem Höhne](https://reforms.uni-mannheim.de/internet_panel/Team/hoehne_jan/))
 
 **How Voters Decide on How to Decide - Decision Making and Information Search Processes in the Political Domain** (with [Sophie Scharf](http://cognition.uni-mannheim.de/mitarbeiter/m_sc_sophie_scharf/))
 
-### Books
-
-Schoen, Harald, Hans Rattinger, Maria Preißinger, Konstantin Gavras and  Markus  Steinbrecher (assisted by Elena Werner). 2017. **Election Campaigns and Voter Decision-Marking in a Multi-Party System: The 2009 and 2013 German Federal Elections.** Baden-Baden: Nomos. [Link](https://www.nomos-elibrary.de/10.5771/9783845254418-418/ursachen-und-konsequenzen-ambivalenter-einstellungen) [Reproduction](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/Monographien/Reproduction.zip)
 
 ### Articles
 
 Blumenstiel, Jan Eric und Konstantin Leonardo Gavras. 2015. **Ursachen und Konsequenzen ambivalenter Einstellungen.** In: Harald Schoen, Cornelia Frank, Thorsten Fass (Hrsg.). PVS-Sonderheft „Politische Psychologie“. Baden-Baden: Nomos: 413-438. [Link](https://www.nomos-elibrary.de/10.5771/9783845273228/election-campaigns-and-voter-decision-making-in-a-multi-party-system) 
 
 Schoen, Harald and Konstantin Gavras. 2018. **Eher anhaltende Polarisierung als vorübergehende Verstimmung. Die Flüchtlingskrise und die Bürgerurteile über die Große Koalition zwischen 2013 und 2017** In: Saalfeld, Thomas and Reimut Zohlnhöfer (Hrsg.). Die Große Koalition 2013-2017: Eine Koalition der "Getriebenen"?: 17-38.
+
+Wuttke, Alexander, Konstantin Gavras and Harald Schoen. 2020. **Leader of the free world or pioneer in democracy's decline? Examining the democratic deconsolidation hypothesis on the mass level in East and West Germany** Research & Politics (online first). [Link](https://journals.sagepub.com/doi/full/10.1177/2053168019900822)
+
+Wuttke, Alexander, Konstantin Gavras and Harald Schoen. 2020. **Have Europeans Grown Tired of Democracy? New Evidence from 18 Consolidated Democracies, 1981-2018** British Journal of Political Science (accepted).
+
+### Books
+
+Schoen, Harald, Hans Rattinger, Maria Preißinger, Konstantin Gavras and  Markus  Steinbrecher (assisted by Elena Werner). 2017. **Election Campaigns and Voter Decision-Marking in a Multi-Party System: The 2009 and 2013 German Federal Elections.** Baden-Baden: Nomos. [Link](https://www.nomos-elibrary.de/10.5771/9783845254418-418/ursachen-und-konsequenzen-ambivalenter-einstellungen) [Reproduction](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/Monographien/Reproduction.zip)
+
 
 ### Data sets
 

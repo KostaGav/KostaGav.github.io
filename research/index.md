@@ -10,6 +10,8 @@
 
 **Text and voice inputs: Answering open narrative questions in smartphone surveys** (with [Annelies Blom](https://www.sowi.uni-mannheim.de/blom/) and [Jan Karem Höhne](https://reforms.uni-mannheim.de/internet_panel/Team/hoehne_jan/))
 
+**Up and Down With Voters‘ Democratic Support: Disentangling the Causal Mechanisms of Winner-Loser Effects in a Multi-Party System** (with [Lea Gärtner](https://www.sowi.uni-mannheim.de/schoen/team/akademische-mitarbeiterinnen-und-mitarbeiter/gaertner-lea-ma/) and [Harald Schoen](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/))
+
 **How Voters Decide on How to Decide - Decision Making and Information Search Processes in the Political Domain** (with [Sophie Scharf](http://cognition.uni-mannheim.de/mitarbeiter/m_sc_sophie_scharf/))
 
 
@@ -33,6 +35,8 @@ Schoen, Harald, Hans Rattinger, Maria Preißinger, Konstantin Gavras and  Markus
 Müller, Johannes, Konstantin Gavras und Lisa Hehnke. 2019. **Twitter Data on the #MeTwo Movement.** doi: 10.17605/OSF.IO/CV79Z
 
 ### Conference Papers
+
+Gavras, Konstantin. 2020. **Politicizing Issues in Times of European Integration: A QTA Approach on Political Communication in an Ever Closer Union** Working paper being reviewed at the Online COMPTEXT Conference 2020, May 14.
 
 Gavras, Konstantin. 2019. **The European Common Security and Defense Policy in Times of Public Attention - Linking Masses and Elites Through Multi-Dimensional Communication Flows** Working paper prepared for the EPOP Conference 2019, September 13 to 15, Glasgow.
 

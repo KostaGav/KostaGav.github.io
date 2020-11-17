@@ -10,12 +10,14 @@
 
 **Text and voice inputs: Answering open narrative questions in smartphone surveys** (with [Annelies Blom](https://www.sowi.uni-mannheim.de/blom/) and [Jan Karem Höhne](https://reforms.uni-mannheim.de/internet_panel/Team/hoehne_jan/))
 
-**Up and Down With Voters‘ Democratic Support: Disentangling the Causal Mechanisms of Winner-Loser Effects in a Multi-Party System** (with [Lea Gärtner](https://www.sowi.uni-mannheim.de/schoen/team/akademische-mitarbeiterinnen-und-mitarbeiter/gaertner-lea-ma/) and [Harald Schoen](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/))
-
 **How Voters Decide on How to Decide - Decision Making and Information Search Processes in the Political Domain** (with [Sophie Scharf](http://cognition.uni-mannheim.de/mitarbeiter/m_sc_sophie_scharf/))
 
 
 ### Articles
+
+Gavras, Konstantin and Jan Karem Höhne. 2020. **Evaluating political parties: Criterion validity of open questions with requests for text and voice answers** International Journal of Social Research Methodology (accepted).
+
+Gärtner, Lea, Konstantin Gavras and Harald Schoen. 2020. **What tips the scales? Disentangling the mechanisms underlying post-electoral gains and losses in democratic support** Electoral Studies (online first) [Link](https://www.sciencedirect.com/science/article/abs/pii/S0261379420300937)
 
 Wuttke, Alexander, Konstantin Gavras and Harald Schoen. 2020. **Have Europeans Grown Tired of Democracy? New Evidence from 18 Consolidated Democracies, 1981-2018** British Journal of Political Science (accepted).
 
@@ -29,12 +31,18 @@ Blumenstiel, Jan Eric und Konstantin Leonardo Gavras. 2015. **Ursachen und Konse
 
 Schoen, Harald, Hans Rattinger, Maria Preißinger, Konstantin Gavras and  Markus  Steinbrecher (assisted by Elena Werner). 2017. **Election Campaigns and Voter Decision-Marking in a Multi-Party System: The 2009 and 2013 German Federal Elections.** Baden-Baden: Nomos. [Link](https://www.nomos-elibrary.de/10.5771/9783845254418-418/ursachen-und-konsequenzen-ambivalenter-einstellungen) [Reproduction](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/Monographien/Reproduction.zip)
 
+### Invited Talks
+Gavras, Konstantin, Jan Karem Höhne, Harald Schoen and Annelies Blom. 2020. **New Avenues in Survey Data Collection. Investigating Linguistic and Content Characteristics of Text and Voice Answers to Political Attitude Questions** MaSIR Talk, October 27.
 
 ### Data sets
 
-Müller, Johannes, Konstantin Gavras und Lisa Hehnke. 2019. **Twitter Data on the #MeTwo Movement.** doi: 10.17605/OSF.IO/CV79Z
+Müller, Johannes, Konstantin Gavras and Lisa Hehnke. 2019. **Twitter Data on the #MeTwo Movement.** doi: 10.17605/OSF.IO/CV79Z
 
 ### Conference Papers
+
+Gavras, Konstantin, Matthias Mader, Tom Scotto, Stephanie Hoffmann, Jason Reifler, Catarina Thomson and Harald Schoen. 2020. **Neue Bedrohungen, neue Sicherheitsarchitektur? Individuelle Bedrohungswahrnehmungen und Einstellungen zur internationalen Sicherheitsarchitektur in Deutschland, Frankreich, Großbritannien und Italien** Working paper prepared for the AK Wahlen Conference 2020, November 13, Heidelberg (Online).
+
+Höhne, Jan Karem, Annelies Blom, Konstantin Gavras, Melanie Revilla and Leonie Rettig. 2020. **Open Question Formats: Comparing the Suitability of Requests for Text and Voice Answers in Smartphone Surveys** Working paper prepared for the BigSurv20 Conference 2020, November 6, Utrecht (Online).
 
 Gavras, Konstantin. 2020. **Politicizing Issues in Times of European Integration: A QTA Approach on Political Communication in an Ever Closer Union** Working paper being reviewed at the Online COMPTEXT Conference 2020, May 14.
 

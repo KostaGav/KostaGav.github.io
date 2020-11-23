@@ -34,6 +34,9 @@ Schoen, Harald, Hans Rattinger, Maria Preißinger, Konstantin Gavras and  Markus
 ### Invited Talks
 Gavras, Konstantin, Jan Karem Höhne, Harald Schoen and Annelies Blom. 2020. **New Avenues in Survey Data Collection. Investigating Linguistic and Content Characteristics of Text and Voice Answers to Political Attitude Questions** MaSIR Talk, October 27.
 
+### Software
+Höhne, Jan Karem, Danish Daniel Qureshi and Konstantin Gavras. 2020. SurveyImage (SImage): A comprehensive guide for collecting images in surveys. Zenodo. DOI: 10.5281/zenodo.4280543
+
 ### Data sets
 
 Müller, Johannes, Konstantin Gavras and Lisa Hehnke. 2019. **Twitter Data on the #MeTwo Movement.** doi: 10.17605/OSF.IO/CV79Z

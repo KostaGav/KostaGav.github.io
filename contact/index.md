@@ -2,22 +2,16 @@
 
 ## Contact
 
-Konstantin Leonardo Gavras, M.A.
+Dr. Konstantin Leonardo Gavras
 
-University of Mannheim
+Nesto Software GmbH
 
-Chair of Political Science, Political Psychology
+Jakob-Neu-Straße 10
 
-Seminar building A5, 6
+69214 Eppelheim
 
-Room 328
-
-68131 Mannheim
-
-Tel.: 0621 181-2083
+Tel.: 0151 1789 6455
 
 E-Mail (private): <a href="mailto:konstantin@gavras.de">konstantin@gavras.de</a>
 
-E-Mail (work): <a href="mailto:kgavras@mail.uni-mannheim.de">kgavras@mail.uni-mannheim.de</a>
-
-E-Mail (CorrelAid): <a href="mailto:mannheim@correlaid.org">mannheim@correlaid.org</a>
+E-Mail (work): <a href="mailto:konstantin.gavras@nesto-software.de">konstantin.gavras@nesto-software.de</a>

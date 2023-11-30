@@ -2,18 +2,27 @@
 
 ## Research
 
-### Work in progress
+### Dissertation
 
-**Politicizing Issues in Times of European Integration – A QTA Approach on Politicization in an Ever Closer Union** Dissertation
-
-**Convergence or Divergence in Strategic Cultures in Europe since the End of the Cold War? A Quantitative Text Analysis of Strategy Papers** (with [Matthias Mader](https://www.sowi.uni-mannheim.de/schoen/team/akademische-mitarbeiterinnen-und-mitarbeiter/mader-matthias-dr/) and [Harald Schoen](http://lspwpp.sowi.uni-mannheim.de/team/lehrstuhlinhaber/))
-
-**Text and voice inputs: Answering open narrative questions in smartphone surveys** (with [Annelies Blom](https://www.sowi.uni-mannheim.de/blom/) and [Jan Karem Höhne](https://reforms.uni-mannheim.de/internet_panel/Team/hoehne_jan/))
-
-**How Voters Decide on How to Decide - Decision Making and Information Search Processes in the Political Domain** (with [Sophie Scharf](http://cognition.uni-mannheim.de/mitarbeiter/m_sc_sophie_scharf/))
-
+Gavras, Konstantin. 2022. **The conditions and nature of europeanized public discourse – A multi-lingual QTA analysis of public discourses in Europe using the internet archive, 2016-2019.** Open Access Mannheim [Dissertation](https://madoc.bib.uni-mannheim.de/62270/1/Dissertation_Gavras.pdf)
 
 ### Articles
+
+Höhne, Jan Karem, Christoph Kern, Konstantin Gavras, Stephan Schlosser. 2023. **The sound of respondents: predicting respondents’ level of interest in questions with voice data in smartphone surveys.** Quality & Quantity. https://doi.org/10.1007/s11135-023-01776-8
+
+Mader, Matthias, Konstantin Gavras, Stefanie C. Hofmann, Jason Reifler, Harald Schoen and Catarina Thomson. 2023. **International threats and support for European security and defence integration: Evidence from 25 countries.**  European Journal of Political Research Oxford tba tba 1-22
+
+Gavras, Konstantin, Jan Karem Höhne, Annelies G. Blom and Harald Schoen. 2022. **Innovating the collection of open-ended answers: The linguistic and content characteristics of written and oral answers to political attitude questions.** Journal of the Royal Statistical Society. Series A, Statistics in Society Oxford 185 3 872-890
+
+Elshehawy, Ashrakat, Konstantin Gavras, Nikolay Marinov, Federico Nanni and Harald Schoen. 2022. **Illiberal communication and election intervention during the refugee crisis in Germany.** Perspectives on Politics New York, NY 20 3 860-878.
+
+Gavras, Konstantin and Jan Karem Höhne. 2022. **Evaluating political parties: criterion validity of open questions with requests for text and voice answers.** International Journal of Social Research Methodology : IJSRM London [u.a.] 25 1 135-141.
+
+Gavras, Konstantin, Matthias Mader and Harald Schoen. 2022. **Convergence of European security and defense preferences? A quantitative text analysis of strategy papers, 1994–2018.** European Union Politics : EUP London 23 4 662-679.
+
+Breznau, Nate et al. 2022. **Observing many researchers using the same data and hypothesis reveals a hidden universe of uncertainty.** Open Access Proceedings of the National Academy of Sciences of the United States of America : PNAS Washington, DC 119 44, Article e2203150119 1-8
+
+Eichfelder, Sandra and Konstantin Gavras. 2021. **Von der klassischen Promotion zum Graduiertenkolleg: Die Promotion im Wandel der Zeit.** Borgstedt, Angela ; Eichfelder, Sandra ; Gassert, Philipp Eine Universität für die Gesellschaft : 75 Jahre Neubegründung Wirtschaftshochschule und Universität Mannheim Ubstadt-Weiher 233-235.
 
 Gavras, Konstantin and Jan Karem Höhne. 2020. **Evaluating political parties: Criterion validity of open questions with requests for text and voice answers** International Journal of Social Research Methodology (accepted).
 
@@ -35,6 +44,11 @@ Schoen, Harald, Hans Rattinger, Maria Preißinger, Konstantin Gavras and  Markus
 Gavras, Konstantin, Jan Karem Höhne, Harald Schoen and Annelies Blom. 2020. **New Avenues in Survey Data Collection. Investigating Linguistic and Content Characteristics of Text and Voice Answers to Political Attitude Questions** MaSIR Talk, October 27.
 
 ### Software
+
+Gavras, Konstantin and Lukas Isermann. 2022. archiveRetriever: Retrieve Archived Web Pages from the 'Internet Archive'. https://cran.r-project.org/web/packages/archiveRetriever/index.html
+
+Höhne, Jan Karem, Konstantin Gavras and Danish Daniel Qureshi. 2020. SurveyVoice (SVoice): A comprehensive guide for recording voice answers in surveys. Zenodo. DOI: http://doi.org/10.5281/zenodo.4644590
+
 Höhne, Jan Karem, Danish Daniel Qureshi and Konstantin Gavras. 2020. SurveyImage (SImage): A comprehensive guide for collecting images in surveys. Zenodo. DOI: 10.5281/zenodo.4280543
 
 ### Data sets
